@@ -1,5 +1,2 @@
-# branchTest
-git分支学习
-master change 1
-远程分支修改
-master 第二次修改2
+# 这是主进程中的 开发代码
+所有 人员在其中 开发。
