@@ -17,3 +17,5 @@ git push origin  --delete     要删除的远程分支
 
 
 git push origin frommaster //将本地frommaster 分支作为远程frommaster 分支
+
+222
